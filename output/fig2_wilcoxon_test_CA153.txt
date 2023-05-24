@@ -1,9 +1,0 @@
-.y.	group1	group2	p	p.adj	p.format	p.signif	method
-1	CA153	Healthy	Breast	0.00299862474439382	0.012	0.0030	**	Wilcoxon
-2	CA153	Healthy	Colorectum	0.999987913059997	1	1.0000	ns	Wilcoxon
-3	CA153	Healthy	Esophagus	0.249256529572113	0.75	0.2493	ns	Wilcoxon
-4	CA153	Healthy	Liver	0.001354318836744	0.0068	0.0014	**	Wilcoxon
-5	CA153	Healthy	Lung	0.000000307292712158759	0.0000018	3.1e-07	****	Wilcoxon
-6	CA153	Healthy	Ovary	1.99273285410357e-11	1.4e-10	2.0e-11	****	Wilcoxon
-7	CA153	Healthy	Pancreas	1.14758351174732e-16	9.2e-16	< 2e-16	****	Wilcoxon
-8	CA153	Healthy	Stomach	0.703732159925254	1	0.7037	ns	Wilcoxon
