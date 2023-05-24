@@ -1,0 +1,9 @@
+.y.	group1	group2	p	p.adj	p.format	p.signif	method
+1	CEA	Healthy	Breast	0.00000000359340321536719	0.000000018	3.6e-09	****	Wilcoxon
+2	CEA	Healthy	Colorectum	1.78244709051307e-31	1.4e-30	< 2e-16	****	Wilcoxon
+3	CEA	Healthy	Esophagus	0.0000052938387164561	0.000016	5.3e-06	****	Wilcoxon
+4	CEA	Healthy	Liver	0.00000171074459270651	0.0000068	1.7e-06	****	Wilcoxon
+5	CEA	Healthy	Lung	2.24476821802513e-11	1.3e-10	2.2e-11	****	Wilcoxon
+6	CEA	Healthy	Ovary	0.939514233818486	0.94	0.94	ns	Wilcoxon
+7	CEA	Healthy	Pancreas	4.79033772706212e-17	3.4e-16	< 2e-16	****	Wilcoxon
+8	CEA	Healthy	Stomach	0.0000167628008424743	0.000034	1.7e-05	****	Wilcoxon

@@ -1,0 +1,9 @@
+.y.	group1	group2	p	p.adj	p.format	p.signif	method
+1	CA724	Healthy	Breast	1	1	1	ns	Wilcoxon
+2	CA724	Healthy	Colorectum	1	1	1	ns	Wilcoxon
+3	CA724	Healthy	Esophagus	1	1	1	ns	Wilcoxon
+4	CA724	Healthy	Liver	1	1	1	ns	Wilcoxon
+5	CA724	Healthy	Lung	1	1	1	ns	Wilcoxon
+6	CA724	Healthy	Ovary	1	1	1	ns	Wilcoxon
+7	CA724	Healthy	Pancreas	1	1	1	ns	Wilcoxon
+8	CA724	Healthy	Stomach	1	1	1	ns	Wilcoxon
